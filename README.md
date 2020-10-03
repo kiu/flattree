@@ -1,9 +1,11 @@
 # flattree
 *flattree* is a two dimensional animated christmas tree featuring 12mm APA102 LED strips.
   
-[![Watch the video](https://raw.githubusercontent.com/kiu/flattree/master/pics/flattree_banner.jpg)](https://youtu.be/yF5w5F-jFqM)
+![flattree](https://raw.githubusercontent.com/kiu/flattree/master/pics/flattree_banner.jpg)
 
 ![parts](https://raw.githubusercontent.com/kiu/flattree/master/pics/flattree_banner_parts.jpg)
+
+Video: https://youtu.be/yF5w5F-jFqM
 
 # Be Inspired
 
